@@ -6,4 +6,4 @@ for _ in range(m):
     arr[i - 1:j] = reversed(arr[i - 1:j])
 
 for i in range(n):
-    print(arr[i], end = " ")
+    print(arr[i], end = " ") 

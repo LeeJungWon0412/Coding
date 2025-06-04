@@ -5,7 +5,7 @@ if(m - 45 >= 0):
     print(h, m)
 elif(m - 45 < 0):
     if(h - 1 < 0):
-        h = 24 - 1
+        h = 24 - 1 
     else:
         h = h - 1
     m = m + 15

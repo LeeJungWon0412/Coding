@@ -9,4 +9,4 @@ for i in range(1, n + 1):
 if(c == x):
     print("Yes")
 else:
-    print("No")
+    print("No") 

@@ -7,4 +7,4 @@ m = max(s)
 for i in range(n):
     s[i] = s[i] / m * 100
 
-print(sum(s) / n)
+print(sum(s) / n) 

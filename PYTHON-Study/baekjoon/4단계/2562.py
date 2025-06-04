@@ -9,6 +9,6 @@ for i in range(9):
     if a[i] > max:
         max = a[i]
         n = i + 1
-
+ 
 print(max)
 print(n)

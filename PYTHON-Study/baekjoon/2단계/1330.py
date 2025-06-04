@@ -1,6 +1,6 @@
 a, b = map(int, input().split())
 if(a>b):
-    print(">")
+    print(">") 
 elif(a<b):
     print("<")
 elif(a==b):

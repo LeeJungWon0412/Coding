@@ -5,4 +5,4 @@ for i in range(0, n):
     if a[i] < x:
         print(a[i], end = " ")
     else:
-        continue
+        continue 
