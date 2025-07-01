@@ -6,7 +6,7 @@ elif(a == b):
     print(1000 + a * 100)
 elif(b == c):
     print(1000 + b * 100)
-elif(c == a):
+elif(c == a): 
     print(1000 + c * 100)
 else:
     if(a > b and a > c):
